@@ -1,4 +1,5 @@
 const article = document.querySelector("article");
+// const paragraph = document.querySelectorAll("p");
 
 if (article) {
   const text = article.textContent;
